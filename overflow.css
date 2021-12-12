@@ -1,0 +1,38 @@
+.one{
+    background-color: rgba(16, 212, 42, 0.548);
+    color: rgb(255, 255, 255);
+    width: 100x;
+    height: 50px;
+    border: 3px solid rgb(197, 21, 109);
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 70px;
+
+}
+div{
+    height: 200px;
+    width: 500px;
+    background-color: rgb(223, 218, 210);
+    border: 3px dashed rgb(201, 49, 12);
+    margin: 100px;
+
+}
+.two{
+    margin-left: 40px;
+}
+button:hover{
+    background-color: rgb(241, 12, 81);
+}
+button:visited{
+    background-color: rgb(8, 61, 15);
+}
+button:active{
+    background-color: rgb(8, 207, 191);
+}
+h2{
+    text-align: center;
+    color: rgb(3, 25, 31);
+}
